@@ -4,4 +4,4 @@ export PATH="$PATH:/usr/local/bin:/Users/Vivek/.rvm/bin"
 export BC_COOKBOOKS="/Users/Vivek/repos/core-chef/cookbooks"
 
 # aliases
-alias ll='ls -FGlAhp'    # Preferred 'ls' implementation
+alias ll='ls -FGlAhp'       # Preferred 'ls' implementation
